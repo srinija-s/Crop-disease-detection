@@ -1,2 +1,12 @@
 # Solanum Lycopersicum Disease Detection
-Crop disease detection plays a vital role in ensuring global food security. Existing methodologies for disease detection involve manual examination of crop plants for disease symptoms, which is time-consuming and subjective. Disease detection in Solanum Lycopersicum (tomato) plants is traditionally done through visual inspection by human experts, which can be time-consuming and subjective. Fusarium wilt is a devastating soil-borne fungal disease of tomatoes throughout the world. The disease is caused by Fusarium oxysporum f. sp. lycopersici which can cause significant yield losses in tomato production in greenhouses, high tunnels, and fields. Recent advancements in agricultural technology have paved the way for more efficient and accurate disease detection in tomato plants. One of the key methods is the application of computer vision and machine learning techniques. The image processing process involves the use of cameras to capture images of tomato plants, and then employ machine learning algorithms to analyze these images for signs of diseases.
+
+This repository contains code and resources for a disease detection system tailored for Solanum Lycopersicum, commonly known as tomatoes. The project focuses on leveraging machine learning techniques to identify and classify diseases affecting tomato plants, providing a valuable tool for early detection and mitigation.
+
+Key Features:
+
+- Machine Learning Models: Implementation of AlexNet architecture for image classification to accurately identify diseases in tomato plants.
+
+- Dataset: Inclusion of datasets used for training and testing the model with 10 classes of diseased leaves and one class of healthy leaves ensuring transparency and reproducibility.
+
+- Pre-processing Scripts: Code snippets for data pre-processing to enhance model accuracy and efficiency.
+
