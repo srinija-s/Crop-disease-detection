@@ -14,4 +14,4 @@ Requirements:
 - Python3
 - Keras
 - TensorFlow
-- Flask
+- Flask (for deployment)
