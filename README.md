@@ -10,3 +10,8 @@ Key Features:
 
 - Pre-processing Scripts: Code snippets for data pre-processing to enhance model accuracy and efficiency.
 
+Requirements:
+- Python3
+- Keras
+- TensorFlow
+- Flask
