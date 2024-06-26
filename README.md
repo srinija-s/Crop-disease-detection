@@ -1,6 +1,5 @@
 # Solanum Lycopersicum Disease Detection
-# Paper [DOI: 10.1109/ICSSES62373.2024.10561324
-](https://doi.org/10.1109/ICSSES62373.2024.10561324)
+# Paper [DOI: 10.1109/ICSSES62373.2024.10561324](https://doi.org/10.1109/ICSSES62373.2024.10561324)
 This repository contains code and resources for a disease detection system tailored for Solanum Lycopersicum, commonly known as tomatoes. The project focuses on leveraging machine learning techniques to identify and classify diseases affecting tomato plants, providing a valuable tool for early detection and mitigation.
 
 Key Features:
